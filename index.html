@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Memory</title>
+
+        <style>
+
+            body {
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            #menu {
+                height: 100vh;
+                width: 50%;
+                background-color:darkslategray;
+                text-align: center;
+                float: left;
+                
+            }
+
+            #generar {
+                padding: 10px;
+                margin-top: 25%;
+                background-color: white;
+            }
+
+            #reiniciar {
+                padding: 10px;
+                margin-top: 25%;
+                background-color: white;
+                display:none;
+            }
+            
+            #juego {
+                height: 100vh;
+                width: 50%;
+                float: right;
+            }
+
+            h1{
+                color:white;
+                font-size: 50px;
+            }
+
+            h3{
+                color:lightgray;
+            }
+
+            p{
+                width: 50px;
+                padding: 10px;
+                margin-left: 10px;
+                background-color: white;
+                display:none;
+            }
+
+            label {
+                color:white;
+            }
+
+        </style>
+    </head>
+
+    <body>
+        <div id="menu">
+            <h1>MEMORY</h1>
+            <h3>by Felipe Jiménez</h3>
+            <div>
+                <button id="generar">Generar cartas 4x4</button>
+                <button id="reiniciar">Reiniciar juego</button>
+            </div>
+
+            <br>
+
+            <div>
+                <label for="contador">Contador: </label>
+                <p type="number" id="contador"></p>
+            </div>
+            
+            <br>
+            <br>
+
+            <div>
+                <label for="contador">Movimientos:</label>
+                <p type="number" id="movimientos">0</p>
+            </div>
+        </div>
+        <div id="juego"></div>
+        <script src="script.js"></script>
+    </body>
+</html>
