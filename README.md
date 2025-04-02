@@ -36,9 +36,10 @@ git clone https://github.com/tu-usuario/memory-game.git
 ```
 
 ## 📸 Capturas de Pantalla
+![inicio](https://github.com/user-attachments/assets/9c06785d-4ffa-4136-81ca-f818d0606e1d)
+![tablero](https://github.com/user-attachments/assets/20bbf736-3386-413d-b78c-8579c33067ee)
+![parejas](https://github.com/user-attachments/assets/e352da10-04bb-461b-9474-f1705f1ba9fd)
 
-![image](https://github.com/user-attachments/assets/0e783606-cf47-4dc8-85f5-a7d5a1f6ddff)
-![image](https://github.com/user-attachments/assets/c75b7e14-0a10-42b7-b8e9-e39e1e15dbe7)
 
 
 
