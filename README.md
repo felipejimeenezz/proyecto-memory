@@ -37,7 +37,10 @@ git clone https://github.com/tu-usuario/memory-game.git
 
 ## 📸 Capturas de Pantalla
 
-_Agrega aquí imágenes del juego en acción._
+![image](https://github.com/user-attachments/assets/0e783606-cf47-4dc8-85f5-a7d5a1f6ddff)
+![image](https://github.com/user-attachments/assets/c75b7e14-0a10-42b7-b8e9-e39e1e15dbe7)
+
+
 
 ## 🔮 Mejoras Futuras
 
